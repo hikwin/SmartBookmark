@@ -1,0 +1,328 @@
+{
+  "categories": [
+    {
+      "name": "🛠️ 开发工具",
+      "hosts": [
+        "github.com",
+        "gitlab.com",
+        "gitee.com",
+        "bitbucket.org",
+        "stackoverflow.com",
+        "npmjs.com",
+        "pypi.org",
+        "docker.com",
+        "maven.org",
+        "vercel.app",
+        "netlify.app",
+        "jsrun.net",
+        "codepen.io",
+        "runoob.com",
+        "w3schools.com",
+        "developer.mozilla.org",
+        "devdocs.io",
+        "hub.docker.com"
+      ],
+      "keywords": [
+        "code", "dev", "developer", "programming", "api", "github", "git", "compiler", "debug", 
+        "console", "docs", "markdown", "json", "sql", "regex", "npm", "pip", "docker", 
+        "kubernetes", "k8s", "hosting", "server", "deploy", "database", "python", "javascript", 
+        "java", "golang", "rust", "c++", "html", "css", "开发", "代码", "编程", "程序员", 
+        "调试", "接口", "文档", "部署", "源码", "开源", "编译器", "数据库", "服务器", 
+        "云服务", "控制台", "算法", "极客", "解析", "脚本", "编译", "后端", "前端", 
+        "指令", "手册", "脚手架", "微服务"
+      ]
+    },
+    {
+      "name": "📚 学习教育",
+      "hosts": [
+        "coursera.org",
+        "udemy.com",
+        "edx.org",
+        "khanacademy.org",
+        "arxiv.org",
+        "wikipedia.org",
+        "baike.baidu.com",
+        "zhihu.com",
+        "bilibili.com",
+        "duolingo.com",
+        "wiktionary.org",
+        "deepl.com",
+        "translate.google.com"
+      ],
+      "keywords": [
+        "learn", "study", "course", "tutorial", "book", "wiki", "math", "history", "physics", 
+        "science", "paper", "research", "academic", "dictionary", "dict", "translation", 
+        "translate", "english", "ielts", "toefl", "learning", "school", "university", "class", 
+        "学习", "教程", "课程", "大学", "论文", "科研", "百科", "维基", "读书", "阅读", 
+        "英语", "考试", "题库", "备考", "词典", "翻译", "网课", "慕课", "公开课", 
+        "学术", "知乎", "听力", "词汇", "语法", "名著", "教案"
+      ]
+    },
+    {
+      "name": "🤖 人工智能",
+      "hosts": [
+        "openai.com",
+        "chatgpt.com",
+        "claude.ai",
+        "anthropic.com",
+        "deepseek.com",
+        "huggingface.co",
+        "midjourney.com",
+        "coze.com",
+        "poe.com",
+        "kimi.ai",
+        "baichuan-ai.com",
+        "zhipuai.cn"
+      ],
+      "keywords": [
+        "ai", "llm", "chatgpt", "gpt", "prompt", "claude", "gemini", "copilot", "model", 
+        "deepseek", "midjourney", "stable diffusion", "neural", "transformer", "agent", 
+        "artificial intelligence", "ollama", "huggingface", "gpu", "inference", "fine-tune",
+        "人工智能", "大模型", "提示词", "智能体", "机器人", "神经网络", "深度学习", 
+        "机器学习", "预训练", "多模态", "问答", "智能生成"
+      ]
+    },
+    {
+      "name": "🛒 购物电商",
+      "hosts": [
+        "amazon.com",
+        "ebay.com",
+        "aliexpress.com",
+        "taobao.com",
+        "jd.com",
+        "tmall.com",
+        "pinduoduo.com",
+        "goofish.com",
+        "meituan.com",
+        "ele.me",
+        "shopify.com",
+        "smzdm.com",
+        "dianping.com"
+      ],
+      "keywords": [
+        "shop", "store", "buy", "mall", "price", "deal", "coupon", "cart", "checkout", 
+        "aliexpress", "amazon", "ebay", "order", "sale", "discount", "market", "pay", 
+        "购物", "电商", "淘宝", "京东", "拼多多", "闲鱼", "优惠", "省钱", "什么值得买", 
+        "团购", "外卖", "快递", "订单", "支付", "购物车", "海淘", "比价", "特价", 
+        "免税", "折扣", "促销"
+      ]
+    },
+    {
+      "name": "📰 新闻资讯",
+      "hosts": [
+        "bbc.com",
+        "cnn.com",
+        "reuters.com",
+        "nytimes.com",
+        "medium.com",
+        "techcrunch.com",
+        "36kr.com",
+        "ithome.com",
+        "jianshu.com",
+        "csdn.net",
+        "sspai.com",
+        "cnbeta.com.tw",
+        "infoq.cn",
+        "wallstreetcn.com"
+      ],
+      "keywords": [
+        "news", "daily", "blog", "feed", "article", "paper", "press", "journal", 
+        "newsletter", "rss", "report", "medium", "post", "magazine", "headline",
+        "新闻", "资讯", "博客", "媒体", "周刊", "观察", "快讯", "深度", "简书", 
+        "少数派", "IT之家", "快报", "社论", "评论", "专栏", "通稿", "纪实"
+      ]
+    },
+    {
+      "name": "🎮 娱乐游戏",
+      "hosts": [
+        "steamcommunity.com",
+        "steampowered.com",
+        "epicgames.com",
+        "itch.io",
+        "twitch.tv",
+        "netflix.com",
+        "iqiyi.com",
+        "v.qq.com",
+        "spotify.com",
+        "soundcloud.com",
+        "music.163.com",
+        "douyu.com",
+        "huya.com",
+        "youtube.com",
+        "bilibili.com"
+      ],
+      "keywords": [
+        "game", "play", "video", "movie", "music", "anime", "comic", "live", "stream", 
+        "tv", "player", "song", "album", "audio", "podcast", "gaming", "steam", "epic", 
+        "switch", "playstation", "xbox", "nintendo", "chord", "instrument",
+        "游戏", "视频", "电影", "音乐", "动漫", "番剧", "直播", "娱乐", "听歌", 
+        "追剧", "网易云", "影视", "电台", "新番", "漫画", "歌词", "乐谱", "吉他", 
+        "掌机", "主机", "电竞"
+      ]
+    },
+    {
+      "name": "💼 工作效率",
+      "hosts": [
+        "notion.so",
+        "trello.com",
+        "slack.com",
+        "zoom.us",
+        "office.com",
+        "drive.google.com",
+        "dropbox.com",
+        "pan.baidu.com",
+        "aliyundrive.com",
+        "jianguoyun.com",
+        "canva.com",
+        "ilovepdf.com",
+        "shimo.im",
+        "feishu.cn",
+        "dingtalk.com"
+      ],
+      "keywords": [
+        "tool", "work", "doc", "pdf", "email", "mail", "drive", "cloud", "calendar", 
+        "meeting", "task", "todo", "note", "efficiency", "sheet", "word", "excel", 
+        "ppt", "presentation", "project", "team", "collab", "management", "converter", 
+        "editor", "scan", "ocr", "效率", "工具", "文档", "云盘", "网盘", "邮箱", 
+        "日历", "会议", "协同", "笔记", "转换", "表单", "看板", "管理", "脑图", 
+        "流程图", "在线编辑", "百度网盘", "阿里云盘", "飞书", "钉钉", "扫描", "文字识别"
+      ]
+    },
+    {
+      "name": "🔒 安全防护",
+      "hosts": [
+        "hackerone.com",
+        "exploit-db.com",
+        "cve.mitre.org",
+        "portswigger.net",
+        "ctftime.org",
+        "owasp.org",
+        "freebuf.com",
+        "anquanke.com",
+        "pediy.com",
+        "virustotal.com"
+      ],
+      "keywords": [
+        "security", "hacker", "exploit", "vuln", "ctf", "malware", "decrypt", "encrypt", 
+        "bypass", "pentest", "firewall", "crypto", "cyber", "cve", "threat", "reverse", 
+        "decompile", "fuzzing", "mitre", "安全", "漏洞", "黑客", "渗透", "病毒", 
+        "逆向", "防护", "防范", "加密", "解密", "木马", "红队", "安全响应", "CTF", 
+        "信息安全", "看雪", "免杀", "暗网", "审计"
+      ]
+    },
+    {
+      "name": "🌐 社交网络",
+      "hosts": [
+        "twitter.com",
+        "x.com",
+        "facebook.com",
+        "instagram.com",
+        "reddit.com",
+        "weibo.com",
+        "tieba.baidu.com",
+        "v2ex.com",
+        "douban.com",
+        "quora.com",
+        "discord.com",
+        "telegram.org",
+        "linkedin.com",
+        "wechat.com"
+      ],
+      "keywords": [
+        "social", "chat", "community", "forum", "group", "share", "post", "reddit", 
+        "weibo", "discord", "telegram", "profile", "connect", "avatar", "tweet", 
+        "moment", "thread", "bbs", "contacts", "社交", "微博", "论坛", "社区", 
+        "贴吧", "讨论", "朋友圈", "豆瓣", "群组", "部落", "交友", "人脉", "聊天", 
+        "微信号"
+      ]
+    },
+    {
+      "name": "💰 金融理财",
+      "hosts": [
+        "bloomberg.com",
+        "finance.yahoo.com",
+        "coinbase.com",
+        "binance.com",
+        "xueqiu.com",
+        "eastmoney.com",
+        "10jqka.com.cn",
+        "jrj.com.cn",
+        "wind.com.cn",
+        "futunn.com"
+      ],
+      "keywords": [
+        "finance", "stock", "bank", "crypto", "coin", "invest", "wealth", "market", 
+        "trade", "bitcoin", "btc", "eth", "portfolio", "rate", "currency", "forex", 
+        "bonds", "option", "futures", "股票", "基金", "理财", "金融", "银行", 
+        "证券", "投资", "币圈", "比特币", "以太坊", "行情", "雪球", "东方财富", 
+        "同花顺", "理财", "汇率", "炒股", "分红", "期权", "期货", "信托", "财报"
+      ]
+    },
+    {
+      "name": "🎨 设计创意",
+      "hosts": [
+        "figma.com",
+        "dribbble.com",
+        "behance.net",
+        "canva.com",
+        "pinterest.com",
+        "pixiv.net",
+        "adobe.com",
+        "unsplash.com",
+        "iconfont.cn",
+        "huaban.com",
+        "freepik.com"
+      ],
+      "keywords": [
+        "design", "art", "image", "color", "photo", "font", "icon", "vector", 
+        "illustration", "3d", "ui", "ux", "canvas", "mockup", "creative", "portfolio", 
+        "gallery", "wallpaper", "sketch", "figma", "photoshop", "ps", "adobe", "render",
+        "设计", "素材", "图片", "配色", "字体", "图标", "矢量", "插画", "建模", 
+        "美化", "海报", "壁纸", "画师", "创意", "画廊", "花瓣网", "排版", "无版权"
+      ]
+    },
+    {
+      "name": "✈️ 旅游出行",
+      "hosts": [
+        "maps.google.com",
+        "map.baidu.com",
+        "tripadvisor.com",
+        "booking.com",
+        "ctrip.com",
+        "qunar.com",
+        "airbnb.com",
+        "amap.com",
+        "mafengwo.cn",
+        "didi.cn"
+      ],
+      "keywords": [
+        "travel", "map", "hotel", "flight", "trip", "ticket", "booking", "route", 
+        "tour", "hostel", "navigation", "gps", "destination", "agency", "airline", "luggage",
+        "旅游", "出行", "地图", "酒店", "机票", "民宿", "攻略", "预订", "高德", 
+        "携程", "去哪儿", "自由行", "景点", "路线", "导航", "打车", "游记", "签证"
+      ]
+    },
+    {
+      "name": "🏥 健康医疗",
+      "hosts": [
+        "webmd.com",
+        "pubmed.ncbi.nlm.nih.gov",
+        "dxy.cn",
+        "guahao.com",
+        "haodf.com",
+        "keep.com"
+      ],
+      "keywords": [
+        "health", "medical", "doctor", "fitness", "medicine", "diet", "hospital", 
+        "clinic", "disease", "symptom", "pharmacy", "wellness", "workout", "gym", "nutri",
+        "健康", "医疗", "医生", "健身", "医药", "饮食", "医院", "挂号", "疾病", 
+        "症状", "诊所", "问诊", "丁香园", "医学", "养生", "减肥", "卡路里", "营养"
+      ]
+    },
+    {
+      "name": "🏠 本地局域网",
+      "hosts": ["localhost", "127.0.0.1"],
+      "keywords": ["lan", "local", "nas", "router", "intranet", "局域网", "内网", "本地", "路由器"]
+    }
+  ]
+}
