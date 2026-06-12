@@ -84,10 +84,16 @@ def load_rules(rules_path="rules.json"):
     """
     Load rule library from local rules.json. If missing or corrupted, returns DEFAULT_RULES.
     """
-    if not os.path.exists(rules_path):
+    import sys
+    resolved_path = rules_path
+    if not os.path.exists(resolved_path):
+        if hasattr(sys, '_MEIPASS'):
+            resolved_path = os.path.join(sys._MEIPASS, rules_path)
+            
+    if not os.path.exists(resolved_path):
         return DEFAULT_RULES
     try:
-        with open(rules_path, 'r', encoding='utf-8') as f:
+        with open(resolved_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
             if "categories" in data and isinstance(data["categories"], list):
                 return data
