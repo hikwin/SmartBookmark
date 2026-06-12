@@ -1,4 +1,4 @@
-# TidyMarks
+# SmartBookmark
 
 [English](#english) | [中文](#中文-1)
 
@@ -6,7 +6,7 @@
 
 ## English
 
-**TidyMarks** is a premium, local-first desktop application designed to organize, clean, and categorize your Chrome bookmarks. By parsing standard Netscape HTML bookmark exports into a local SQLite database, it gives you complete control over your web archives with an intuitive, modern dark-themed dashboard interface.
+**SmartBookmark** is a premium, local-first desktop application designed to organize, clean, and categorize your Chrome bookmarks. By parsing standard Netscape HTML bookmark exports into a local SQLite database, it gives you complete control over your web archives with an intuitive, modern dark-themed dashboard interface.
 
 ### Key Features
 
@@ -39,7 +39,7 @@ python main.py
 
 ## 中文
 
-**TidyMarks** 是一款高颜值、本地优先的桌面书签智能整理与清洗工具。它能够将您从 Chrome 导出的标准 Netscape HTML 书签文件导入到本地 SQLite 数据库中进行解析和清理，并通过精美且富有交互感的深色系仪表盘界面为您呈现实时的数据面板。
+**SmartBookmark** 是一款高颜值、本地优先的桌面书签智能整理与清洗工具。它能够将您从 Chrome 导出的标准 Netscape HTML 书签文件导入到本地 SQLite 数据库中进行解析和清理，并通过精美且富有交互感的深色系仪表盘界面为您呈现实时的数据面板。
 
 ### 核心功能
 
